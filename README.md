@@ -56,18 +56,18 @@
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/%235-MOST--STARRED%20MOODLE%20PLUGIN-6C5CE7?style=for-the-badge"
-    alt="#5 most-starred Moodle plugin repository on GitHub"
+    src="https://img.shields.io/badge/%232-MOST--STARRED%20MOODLE--PLUGIN%20TOPIC-6C5CE7?style=for-the-badge"
+    alt="#2 most-starred repository in GitHub's moodle-plugin topic"
     height="36"
   >
 </p>
 
 <p align="center">
-  <strong>🏆 #5 most-starred Moodle plugin repository on GitHub</strong>
+  <strong>🏆 #2 most-starred repository in GitHub's <code>moodle-plugin</code> topic</strong>
 </p>
 
 <p align="center">
-  <sub>Rankings based on GitHub stars — August 2026</sub>
+  <sub>Ranking based on GitHub stars — September 2026</sub>
 </p>
 
 > **AI-powered Moodle learning tools:** course-aware tutoring, quizzes, mind maps, assessment, adaptive review, RAG, analytics and course-building helpers.
